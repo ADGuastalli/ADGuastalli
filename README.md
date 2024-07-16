@@ -6,9 +6,9 @@
 ## **<div align="center">Hola, ¿cómo estás? Mi nombre es Alexis Dante Guastalli 👨‍💻</div>**  
   
 
-### <div align="center">Soy Desarrollador web Full Stack con orientación en Frontend, utilizando tecnologías como React, Next.js, JavaScript, TypeScript, CSS, SCSS, Tailwind, Bootstrap, y Más. Ademas soy Testing QA Manual. Me encanta desarrollar soluciones creativas, eficientes y visualmente atractivas, y siempre estoy en búsqueda de nuevas tecnologías y herramientas para seguir aprendiendo y mejorando. Soy de Bahia Blanca - Argentina 🇦🇷
+### <div align="center">Soy Desarrollador web Full Stack con orientación en Frontend, utilizando tecnologías como React, Next.js, JavaScript, TypeScript, CSS, SCSS, Tailwind, Bootstrap, y Más. Ademas soy Testing QA Manual. Me encanta desarrollar soluciones creativas, eficientes y visualmente atractivas, y siempre estoy en búsqueda de nuevas tecnologías y herramientas para seguir aprendiendo y mejorando. Soy de Bahia Blanca - Argentina 🇦🇷</div>
 
-📧 Email: alexisguastalli@gmail.com 📧</div>
+### <div align="center">📧 Email: alexisguastalli@gmail.com 📧</div>
   
 
 <br/>  
