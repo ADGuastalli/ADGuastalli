@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/vHhvmpck/portada-linkedin.png" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/TPzVSx4L/portada-linkedin.png" align="center" style="width: 100%" />
 </div>  
   
 
