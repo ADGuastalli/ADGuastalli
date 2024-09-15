@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/jdKMY2Y4/Guastalli-Alexis-Dante.jpg" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/vHhvmpck/portada-linkedin.png" align="center" style="width: 100%" />
 </div>  
   
 
